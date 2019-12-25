@@ -1,6 +1,6 @@
 # GprOxy.go 
 
-GprOxy is a tool to check web proxies and save the working ones to use later in further attacks such as IP rate-limit, blocking, and country connection check.
+GprOxy is a tool to check active web proxies and save the working ones to use later in further attacks such as IP rate-limit, blocking, and country connection check.
 
 
 ![ss](ss.png)
