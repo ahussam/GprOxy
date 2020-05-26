@@ -21,7 +21,7 @@ Windows:
 
 ```
 C:\> git clone https://github.com/ahussam/GprOxy.git
-C:\> cd GprOxy <br>
+C:\> cd GprOxy 
 C:\> go get github.com/fatih/color
 C:\> go run gproxy -file mylist.txt -o out.txt
 ```
