@@ -184,7 +184,7 @@ func main() {
 				tor = "True"
 			}
 			spam := "false"
-			if info.SuspiciousFactors.IsTorNode != false {
+			if info.SuspiciousFactors.IsSpam != false {
 				spam = "True"
 			}
 			color.Green("\t" + IP + "\t\t " + Port + "\t\t " + info.CountryName + "\t\t" + tor + "\t\t" + spam + "\n")
